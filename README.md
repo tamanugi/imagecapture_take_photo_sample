@@ -1,0 +1,1 @@
+# imagecapture_take_photo_sample
